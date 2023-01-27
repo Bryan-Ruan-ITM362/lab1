@@ -4,12 +4,10 @@ body {
 h1 {
   text-align: center;
   font-family: Times New Roman;
-}
-h2 {
-  text-align: center;
-  font-family: Times New Roman;
+  color:blue;
 }
 h3 {
   text-align: center;
   font-family: Times New Roman;
+  color:yellow;
 }
